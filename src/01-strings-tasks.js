@@ -303,6 +303,7 @@ function getCardId(value) {
   return array.indexOf(value);
 }
 
+
 module.exports = {
   concatenateStrings,
   getStringLength,
